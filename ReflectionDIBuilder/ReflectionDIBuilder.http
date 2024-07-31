@@ -1,0 +1,6 @@
+@ReflectionDIBuilder_HostAddress = http://localhost:5195
+
+GET {{ReflectionDIBuilder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
